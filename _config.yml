@@ -31,12 +31,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Judo Club Cotois
-subtitle: Your awesome subtitle
+subtitle: Judo et Ju-jitsu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
-author: Your Incredible Name
-email: your-email@example.com
+  Site internet du Judo Club Cotois.
+author: Judo Club Cotois
+email: judo-club-cotois@orange.fr
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
@@ -46,7 +45,7 @@ url: "https://judoclubcotois.github.io" # the base hostname & protocol for your 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
 twitter_url:
-facebook_url:
+facebook_url: https://www.facebook.com/judo.club.cotois/
 googleplus_url:
 instagram_url:
 linkedin_url:
