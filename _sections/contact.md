@@ -1,7 +1,7 @@
 ---
 title: Contact
 icon: fa-envelope
-order: 7
+order: 8
 ---
 
 Pour toute question n'hésitez pas à nous contacter : <judo-club-cotois@orange.fr><br>
